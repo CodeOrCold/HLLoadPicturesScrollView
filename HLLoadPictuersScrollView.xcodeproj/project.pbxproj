@@ -42,6 +42,7 @@
 		B26C2A461E5B4B8F0054412C /* HLScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = B26C2A421E5B4B8F0054412C /* HLScrollView.m */; };
 		B26C2A471E5B4B8F0054412C /* UIView+YHL.m in Sources */ = {isa = PBXBuildFile; fileRef = B26C2A441E5B4B8F0054412C /* UIView+YHL.m */; };
 		B26C2A491E5B594D0054412C /* show.png in Resources */ = {isa = PBXBuildFile; fileRef = B26C2A481E5B594D0054412C /* show.png */; };
+		B26C2A4B1E5B5B760054412C /* 旅行树logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B26C2A4A1E5B5B760054412C /* 旅行树logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -130,6 +131,7 @@
 		B26C2A431E5B4B8F0054412C /* UIView+YHL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+YHL.h"; sourceTree = "<group>"; };
 		B26C2A441E5B4B8F0054412C /* UIView+YHL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+YHL.m"; sourceTree = "<group>"; };
 		B26C2A481E5B594D0054412C /* show.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = show.png; sourceTree = "<group>"; };
+		B26C2A4A1E5B5B760054412C /* 旅行树logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "旅行树logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +191,7 @@
 				B26C2A3A1E5B321C0054412C /* HLData.m */,
 				B26C2A3C1E5B38840054412C /* jobs.jpg */,
 				B26C2A481E5B594D0054412C /* show.png */,
+				B26C2A4A1E5B5B760054412C /* 旅行树logo.png */,
 				B26C29BD1E5B225C0054412C /* Main.storyboard */,
 				B26C29C31E5B225C0054412C /* Assets.xcassets */,
 				B26C29C51E5B225C0054412C /* LaunchScreen.storyboard */,
@@ -415,6 +418,7 @@
 				B26C29C71E5B225C0054412C /* LaunchScreen.storyboard in Resources */,
 				B26C2A491E5B594D0054412C /* show.png in Resources */,
 				B26C2A3D1E5B38840054412C /* jobs.jpg in Resources */,
+				B26C2A4B1E5B5B760054412C /* 旅行树logo.png in Resources */,
 				B26C29C41E5B225C0054412C /* Assets.xcassets in Resources */,
 				B26C29BF1E5B225C0054412C /* Main.storyboard in Resources */,
 			);
