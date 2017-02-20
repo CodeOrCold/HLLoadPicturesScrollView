@@ -1,6 +1,6 @@
 # HLLoadPicturesScrollView
 
-![image](https://github.com/CodeOrCold/HLLoadPicturesScrollView/raw/master/HLLoadPicture/show.png)
+![image](https://github.com/CodeOrCold/HLLoadPicturesScrollView/raw/master/HLLoadPictures/show.png)
 
 1.创建
 
