@@ -1,5 +1,7 @@
 # HLLoadPicturesScrollView
 
+![image](https://github.com/CodeOrCold/HLLoadPicturesScrollView/raw/master/HLLoadPicture/show.png)
+
 1.创建
 
 HLScrollView scrollView = [HLScrollView cycleScrollViewWithFrame:CGRectMake(0, 0, self.view.bounds.size.width, self.view.bounds.size.height0.4) delegate:self placeholderImage:[UIImage imageNamed:@"jobs.jpg"]];
